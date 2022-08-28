@@ -1,0 +1,3 @@
+Submit Threat Intelligence Report, solomon@csa.gov.gh, High
+Do vulnerability scan, josephattoh@csa.gov.gh, Medium
+Submit POC statistics, anetteamoah@csa.gov.gh, Low
