@@ -1,0 +1,59 @@
+[33mcommit ee0b42955acc32e7a7af6bc60b9a716b98632781[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Tue Aug 30 07:29:56 2022 +0000
+
+    Final Commit - Everything done and working as expected and env folder added after removing gitignore
+
+[33mcommit be7969496ecffb145b811e8ddd2a2967ba48043a[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Mon Aug 29 17:33:00 2022 +0000
+
+    Running perfectly with Object Oriented Programming - Next - beautification
+
+[33mcommit 29344fe267f5c4e0746e90dc164ff4beb96ca805[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sun Aug 28 18:44:26 2022 +0000
+
+    Program working well as expected. Next - Code refactoring and use of OOP
+
+[33mcommit 29cffa0b7e0eda57f081330e9ded93ab72596398[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 18:14:55 2022 +0000
+
+    Add methods to route, create form, recieve posted data and save, loop table 2nd row using jinja
+
+[33mcommit 575a6490f3b0726f9d248f46b6dac80a68c2f869[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 14:33:42 2022 +0000
+
+    CSS linked - basic flask app with html and css
+
+[33mcommit dcda705947b41ed52a675edc6c828354dd398b32[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 09:30:58 2022 +0000
+
+    push 5 - base.html created and clear index.html and jinja blocks and extend to base
+
+[33mcommit 69b21e6299634ec9868eddf15a7714c399b4b5cc[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 08:36:04 2022 +0000
+
+    added folders templates static and env
+
+[33mcommit a37126f1f2f58d9da5a8dec7949e2fb3a35424cb[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 07:57:19 2022 +0000
+
+    push 3 - Basic flash app
+
+[33mcommit 85def45e4b9520d48b5f68b6721f9da468b53dbb[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 07:43:21 2022 +0000
+
+    Push 2 - todoapp edited
+
+[33mcommit 831e63dc0e91a7a2e88be928fb8c778aaccc23d2[m
+Author: Hamid Baisaana <baisaanahamid@gmail.com>
+Date:   Sat Aug 27 07:24:35 2022 +0000
+
+    Push 1 - Initial commit - empty todoapp python file
