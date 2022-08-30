@@ -1,4 +1,2 @@
-Submit Threat Intelligence Report, solomon@csa.gov.gh, High
-Do vulnerability scan, josephattoh@csa.gov.gh, Medium
-Submit POC statistics, anetteamoah@csa.gov.gh, Low
-jlsdjosdmjsdljsdodfnsdjl, i@xsi.com, hgigh
+Forward online fraud case to Law Enforcement Unit, godfred.kumi@csa.gov.gh, High
+Submit POC Statistics report, annette.amoah@csa.gov.gh, Low

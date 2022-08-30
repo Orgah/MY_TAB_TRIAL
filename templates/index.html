@@ -8,37 +8,41 @@
 
 {% block body %}
 <div class="content">
-    <h1>To-Do List</h1>
+    <div class="box" id="heading">
+        <h1>To-Do List</h1>
+    </div>
 
-    <table>
+    <div class="box">
+      <table>
         <tr>
-            <th>S/N</th>
-            <th>Task Decription</th>
-            <th>Email of Person Responsible</th>
-            <th>Priority Level</th>
+            <th><h3>S/N</h3></th>
+            <th><h3>S/N Task Decription</h3></th>
+            <th><h3>Email of Person Responsible</h3></th>
+            <th><h3>Priority Level</h3></th>
         </tr>
         
         {% for task in tasks %}
             <tr>
-                <td>{{ loop.index }}</td>
-                <td>{{ task[0] }}</td>
-                <td>{{ task[1] }}</td>
-                <td>
-                    {{ task[2] }}
-                </td>
+                <td><p>{{ loop.index }}</p></td>
+                <td><p>{{ task[0] }}</p></td>
+                <td><p>{{ task[1] }}</p></td>
+                <td><p>{{ task[2] }}</p></td>
             </tr>
         {% endfor %}
     </table>
-    <form action="/submit" method="POST">
-        <input type="text" name="task" placeholder="Task Description" autofocus>
+    <p></p>
+    <form class="item" action="/submit" method="POST">
+        <input type="text" name="task" placeholder="Enter Task Description" autofocus>
         <input type="email" name="email" placeholder="Email of Resposible Officer">
-        <input type="text" name="priority" placeholder="Priority Level">
-        <input type="submit" value="Add Task">
+        <input type="text" name="priority" placeholder="Enter Priority Level">
+        <input type="submit" value="+">
     </form>
-
+    <p></p>
     <form action="/clear">
-        <input type="submit" value="Clear Tasks">
+        <button type="submit">Clear</button>
     </form>
+    <p></p>
+    </div>
 
 </div>
 {% endblock %}
